@@ -1,0 +1,6 @@
+C:\Users\bhekanimasinga\Documents\ass3Assessment6Collections\ass3Assessment6Collections\bin\Debug\ass3Assessment6Collections.exe.config
+C:\Users\bhekanimasinga\Documents\ass3Assessment6Collections\ass3Assessment6Collections\bin\Debug\ass3Assessment6Collections.exe
+C:\Users\bhekanimasinga\Documents\ass3Assessment6Collections\ass3Assessment6Collections\bin\Debug\ass3Assessment6Collections.pdb
+C:\Users\bhekanimasinga\Documents\ass3Assessment6Collections\ass3Assessment6Collections\obj\Debug\ass3Assessment6Collections.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Documents\ass3Assessment6Collections\ass3Assessment6Collections\obj\Debug\ass3Assessment6Collections.exe
+C:\Users\bhekanimasinga\Documents\ass3Assessment6Collections\ass3Assessment6Collections\obj\Debug\ass3Assessment6Collections.pdb
